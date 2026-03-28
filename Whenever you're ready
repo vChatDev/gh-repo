@@ -1,0 +1,7 @@
+Whenever you're ready  next to link the GitHub for Agent Alpha and Motier (Beta), just share the repository details and I'll wire them into this ecosystem. A few things we can do next as you build this out:
+
+GitHub integration — connect the repos for Alpha and Beta agents so their data/outputs can flow into this app
+Authentication — lock down the dashboard so only your team can access fund data
+Export/reporting — generate fund recovery reports as PDFs or CSVs
+Activity timeline — log every action taken on a fund or case with timestamps
+Notifications — alerts for overdue documents or urgent funds
